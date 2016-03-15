@@ -1,0 +1,23 @@
+   SyR-e (Synchronous Reluctance evolution)
+   Copyright 2014 Ernesto Mininno and Francesco Cupertino from Polytechnic University of Bari
+   Copyright 2015 Mustafa Çelikkaya and Ozan Keysan from Middle East Technical University
+
+   This product includes software developed at
+   Converters, Electrical Machines and Drives Research Group (EMD) 
+   at The Polytechnic University of Bari in  Bari, Italy. 
+
+   This software contains code derived from Polytechnic University of Bari.
+   SyR-e is a Matlab/Octave code developed to design synchronous reluctance machines 
+   with finite element analysis and the aid of multi-objective optimization algorithms.
+
+   This code is used for my thesis. The title of my thesis is " Development of an open source
+   switched reluctance machine design software." 
+
+   The thesis consists of developing an open source program "SyR-e", which designs 
+   synchronous reluctance machines with finite element analysis and 
+   the aid of multi-objective optimization algorithms, and comparing 
+   the constructed motor and simulation results. 
+
+   The original software is available from
+		http://sourceforge.net/projects/syr-e/
+   
